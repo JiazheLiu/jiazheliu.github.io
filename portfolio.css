@@ -241,14 +241,14 @@ nav.top-nav li:active{
     padding-left: 100px;
 }
 
-.introduce_item_title a{
+/* .introduce_item_title a{
 	display: inline;
     width: 300px;
     font-size: 18px;
     line-height: 36px;
     align-self: center;
     padding-left: 100px;
-}
+} */
 
 .introduce_item_title {
     width: 300px;
